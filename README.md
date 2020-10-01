@@ -1,4 +1,4 @@
-# This is an amazing project.
+# This is an amazing project
 
 # Blitzjs.com - Website & Docs
 
